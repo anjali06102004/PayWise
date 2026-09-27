@@ -102,7 +102,7 @@ ai-spending-agent/
 ├── frontend/          # Next.js application
 ├── backend/           # FastAPI application
 ├── docker-compose.yml # Multi-container setup
-└── .env.example      # Environment variables template
+
 ```
 
 ## Features
